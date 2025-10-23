@@ -8,10 +8,22 @@ This comprehensive teaching module has been created specifically for MBBS studen
 
 ```
 TB_Module/
+├── chapters/
+│   ├── README.md                             # Chapters navigation guide
+│   ├── chapter1_introduction_and_epidemiology.md
+│   ├── chapter2_transmission_and_pathogenesis.md
+│   ├── chapter3_risk_factors.md
+│   ├── chapter4_clinical_manifestations.md
+│   ├── chapter5_diagnosis.md
+│   ├── chapter6_treatment.md
+│   ├── chapter7_prevention_and_control.md
+│   ├── chapter8_tb_in_special_populations.md
+│   ├── chapter9_national_tb_elimination_program.md
+│   └── chapter10_future_directions_and_research.md
 ├── presentations/
 │   └── TB_Module_Presentation.pptx          # Interactive PowerPoint presentation (14 slides)
 ├── handouts/
-│   └── student_handout.md                   # Detailed student handbook (Markdown format)
+│   └── student_handout.md                   # Updated master handbook with module overview
 ├── visualizations/
 │   ├── charts/                              # Generated PNG charts (6 charts)
 │   │   ├── tb_incidence_india_trend.png
