@@ -1,0 +1,34 @@
+[VIDEO EPISODE 1: INTRODUCTION TO TUBERCULOSIS]
+
+[Opening Scene: Global map animation showing TB hotspots]
+NARRATOR: "Tuberculosis, or TB, is one of humanity's oldest and most persistent adversaries. Today, it remains the world's leading infectious killer. In this video series, we'll explore tuberculosis from its epidemiology to its control, with special focus on the Indian context. I'm your host, Dr. Sharma, and we'll navigate through the complexities of TB together."
+
+[Scene: Mycobacteria under microscope]
+NARRATOR: "TB is caused by Mycobacterium tuberculosis, an acid-fast bacillus that has plagued humanity for thousands of years. Archaeological evidence suggests TB existed as early as 9,000 BC. This resilient bacterium knows no borders - anyone can contract TB, but poverty, poor living conditions, and weakened immunity create the perfect breeding grounds."
+
+[Statistics Animation: WHO data visualization]
+NARRATOR: "The WHO reports staggering numbers: 10 million new TB infections annually, and 1.5 million deaths every year. This makes TB the single greatest cause of death from an infectious disease. But here's what makes this even more concerning - India bears a disproportionate burden. Our country alone accounts for about 27% of the global TB cases. That's approximately 2.7 million new infections every year."
+
+[Indian map with state-wise data]
+NARRATOR: "Looking closer at states, Uttar Pradesh and Maharashtra lead with over 300,000 and 270,000 cases respectively. Bihar, West Bengal, Madhya Pradesh, and Rajasthan complete the top five. The incidence rates are particularly high in slums, overcrowded urban areas, and remote rural districts where healthcare access remains limited."
+
+[Transition: Covid-19 comparison]
+NARRATOR: "The COVID-19 pandemic has reminded us of respiratory infections, but TB was killing 14,000 people daily even before the pandemic. While COVID-19 captured headlines, TB continued its silent epidemic, especially among poor and marginalized communities."
+
+[Dr. Sharma in clinic]
+DR. SHARMA: "In our discussion series, we'll cover:
+- Epidemic patterns and risk factors specific to India
+- How TB infection differs from active disease
+- Clinical presentation and diagnosis
+- Treatment regimens for drug-sensitive and resistant cases
+- India's national control program and what it achieves
+- Prevention strategies and vaccine prospects
+
+Remember, TB is preventable and curable. Early diagnosis and complete treatment save lives."
+
+[Closing Scene: Hopeful animation with treatment success data]
+NARRATOR: "India has made significant progress, achieving an 84% treatment success rate. With continued investment in research and implementation, we can usher in the end of TB as a public health threat. Join us in the next episodes as we dive deeper into this fascinating and critical topic."
+
+[End Credits]
+"Created under TB Teaching Module
+Source: WHO Global TB Report 2023, India TB Report 2023"

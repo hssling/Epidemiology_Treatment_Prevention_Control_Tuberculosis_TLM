@@ -1,0 +1,36 @@
+[VIDEO EPISODE 2: DIAGNOSIS AND CLINICAL PRESENTATION]
+
+[Opening Scene: Doctor examining patient]
+NARRATOR: "Welcome back to our tuberculosis series. Today, we'll explore how TB presents clinically and what diagnostic tools we have to confirm it. Understanding these is crucial for all medical students and practitioners."
+
+[Scene: Patient symptoms illustration]
+NARRATOR: "TB doesn't always announce itself dramatically. Pulmonary TB, which affects the lungs in 85% of cases, often presents subtly. Starting with a persistent cough lasting more than two weeks, patients may experience chest pain, unexplained weight loss, fever, and night sweats."
+
+[Dr. Sharma explaining]
+DR. SHARMA: "The key is duration. A common cold cough resolves in a week; a TB cough persists. When you hear 'persistent cough', think TB until proven otherwise. Especially here in India, where we're managing 2.7 million active cases."
+
+[Animation: TB progression]
+NARRATOR: "Without treatment, TB progressively destroys lung tissue. You see infiltration, cavitation, fibrosis. The bacteria spreads through airways, lymphatics, and bloodstream. What starts in the lungs can seed kidneys, bones, joints, or the brain."
+
+[Scene: Diagnostic laboratory]
+NARRATOR: "Diagnosis begins with strong clinical suspicion, supported by chest radiography. But the gold standard remains microbiological confirmation. For pulmonary TB, we rely on sputum examination. The traditional method - Ziehl-Neelsen staining for acid-fast bacilli - has limited sensitivity but remains important in resource-limited settings."
+
+[CBNAAT demonstration]
+NARRATOR: "Here's where India shines. The GeneXpert, or CBNAAT machine provides rapid results in just two hours. It detects MTB genes and rifampicin resistance simultaneously. The Revised National TB Control Programme has deployed thousands of these machines across the country."
+
+[Interview: Laboratory technician]
+TECHNICIAN: "CBNAAT is a game-changer. Before, patients waited weeks for results; now, we diagnose MDR-TB on day one. This enables timely initiation of correct treatment."
+
+[Scene: Different diagnostic scenarios]
+NARRATOR: "The WHO algorithm stratifies by HIV status and testing resources. In high-prevalence settings like ours, CBNAAT is the initial test. For low-risk cases, especially in private sector, a negative CBNAAT with chest X-ray normal generally rules out TB."
+
+[Dr. Sharma in hospital]
+DR. SHARMA: "But diagnostics are only part of the puzzle. Clinics must capture all symptoms via standardized forms. Nikshay, India's online surveillance portal, automatically triggers tests when clinical suspicion is high.
+
+In our next episode, we'll cover treatment - the longest, most complex aspect of TB management. Stay tuned."
+
+[Closing]
+"Early diagnosis saves lives. When in doubt, test for TB."
+
+[End Credits]
+"TB Teaching Module - Diagnosis and Clinical Presentation"

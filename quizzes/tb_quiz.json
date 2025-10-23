@@ -1,0 +1,184 @@
+{
+  "title": "Tuberculosis Teaching Module Quiz",
+  "description": "Multiple Choice Questions (MCQs) on Epidemiology, Treatment and Control of Tuberculosis for MBBS Students",
+  "total_questions": 25,
+  "passing_score": 70,
+  "time_limit_minutes": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary causative agent of tuberculosis in humans?",
+      "options": ["Mycobacterium bovis", "Mycobacterium tuberculosis", "Mycobacterium leprae", "Mycobacterium avium"],
+      "correct_answer": 1,
+      "explanation": "Mycobacterium tuberculosis is the main pathogen causing TB in humans."
+    },
+    {
+      "id": 2,
+      "question": "According to WHO 2023 data, approximately how many people died from TB globally in 2023?",
+      "options": ["500,000", "1.3 million", "1.5 million", "2.0 million"],
+      "correct_answer": 2,
+      "explanation": "WHO reports about 1.5 million deaths from TB annually."
+    },
+    {
+      "id": 3,
+      "question": "Which Indian state has the highest estimated number of TB cases (2023)?",
+      "options": ["Uttar Pradesh", "Maharashtra", "West Bengal", "Bihar"],
+      "correct_answer": 0,
+      "explanation": "Uttar Pradesh has approximately 325,000 estimated TB cases annually."
+    },
+    {
+      "id": 4,
+      "question": "What percentage of the world's TB cases occur in India?",
+      "options": ["20%", "27%", "35%", "50%"],
+      "correct_answer": 1,
+      "explanation": "India accounts for about 27% of global TB burden."
+    },
+    {
+      "id": 5,
+      "question": "TB primarily spreads through:",
+      "options": ["Waterborne transmission", "Airborne droplet nuclei", "Sexual contact", "Blood transfusion"],
+      "correct_answer": 1,
+      "explanation": "TB spreads through air when infected people cough, sneeze or speak."
+    },
+    {
+      "id": 6,
+      "question": "The primary site of TB infection in the body is:",
+      "options": ["Lymph nodes", "Liver", "Lungs", "Kidneys"],
+      "correct_answer": 2,
+      "explanation": "The first site of infection is typically the lungs (primary pulmonary TB)."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a major risk factor for TB activation in India?",
+      "options": ["HIV/AIDS", "Vitamin D supplementation", "Vaccination", "All of the above"],
+      "correct_answer": 0,
+      "explanation": "HIV/AIDS is a significant risk factor, with about 18% of TB cases having HIV co-infection."
+    },
+    {
+      "id": 8,
+      "question": "Which of these symptoms would make you suspect pulmonary TB?",
+      "options": ["Intermittent fever", "Persistent cough >2 weeks", "Urinary frequency", "Hepatomegaly"],
+      "correct_answer": 1,
+      "explanation": "Persistent cough for more than 2 weeks is a key symptom of pulmonary TB."
+    },
+    {
+      "id": 9,
+      "question": "The most sensitive diagnostic test for TB in India is:",
+      "options": ["Chest X-ray", "Sputum smear microscopy", "CBNAAT (GeneXpert)", "Blood culture"],
+      "correct_answer": 2,
+      "explanation": "CBNAAT has high sensitivity and detects rifampicin resistance."
+    },
+    {
+      "id": 10,
+      "question": "The standard treatment regimen for drug-sensitive TB is:",
+      "options": ["2 months of INH + 4 months of INH", "6 months of all drugs together", "2 months HRZE + 4 months HR", "1 month HR + 5 months HE"],
+      "correct_answer": 2,
+      "explanation": "2HRZE/4HR regimen is the standard for DS-TB."
+    },
+    {
+      "id": 11,
+      "question": "BCG vaccine provides protection primarily against:",
+      "options": ["Pulmonary TB in adults", "Miliary TB and TB meningitis in children", "Drug-resistant TB", "Latent TB"],
+      "correct_answer": 1,
+      "explanation": "BCG prevents severe forms of TB in children, especially disseminated TB."
+    },
+    {
+      "id": 12,
+      "question": "In India's Revised National TB Control Programme, which is the preferred diagnostic tool at district levels?",
+      "options": ["Sputum smear microscopy", "CBNAAT", "Culture", "TST"],
+      "correct_answer": 1,
+      "explanation": "CBNAAT is being rolled out across districts for rapid diagnosis."
+    },
+    {
+      "id": 13,
+      "question": "Nikshay is India's:",
+      "options": ["National TB vaccine research center", "Web-based TB surveillance system", "National TB drug procurement agency", "TB patient support network"],
+      "correct_answer": 1,
+      "explanation": "Nikshay is the national web-based surveillance portal for TB."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is true about DOTS strategy?",
+      "options": ["Direct Observation of Therapy by trained supervisor", "Drug dispensing at private pharmacies", "Home-based treatment only", "Use of oral drugs only"],
+      "correct_answer": 0,
+      "explanation": "DOTS involves supervision to ensure treatment adherence."
+    },
+    {
+      "id": 15,
+      "question": "Treatment for MDR-TB typically lasts:",
+      "options": ["6 months", "9-12 months", "18-24 months", "36 months"],
+      "correct_answer": 2,
+      "explanation": "MDR-TB treatment requires at least 18-24 months of therapy."
+    },
+    {
+      "id": 16,
+      "question": "Which side effect is most commonly associated with isoniazid?",
+      "options": ["Nephrotoxicity", "Hepatitis", "Ototoxicity", "Skin rashes"],
+      "correct_answer": 1,
+      "explanation": "INH can cause drug-induced hepatitis, requiring monitoring of LFTs."
+    },
+    {
+      "id": 17,
+      "question": "Contraindication for rifampicin includes:",
+      "options": ["Diabetes", "Smoking", "Jaundice", "Old age"],
+      "correct_answer": 2,
+      "explanation": "Rifampicin is contraindicated in jaundice and acute hepatitis."
+    },
+    {
+      "id": 18,
+      "question": "TB-HIV co-infection management includes:",
+      "options": ["Starting ATT before ART", "Starting ART before ATT", "Starting ART at any time", "Using only MDR regimen"],
+      "correct_answer": 0,
+      "explanation": "Start ATT first, then ART after 2-8 weeks depending on CD4 count."
+    },
+    {
+      "id": 19,
+      "question": "Nikshay Poshan Yojana provides:",
+      "options": ["Drugs to private providers", "Incentives for testing", "Nutritional support to TB patients", "Free transportation"],
+      "correct_answer": 2,
+      "explanation": "Nikshay Poshan provides financial assistance for nutrition during TB treatment."
+    },
+    {
+      "id": 20,
+      "question": "TB contact tracing significantly:",
+      "options": ["Reduces disease in children", "Increases healthcare costs", "Delays diagnosis", "None of the above"],
+      "correct_answer": 0,
+      "explanation": "Contact tracing helps identify and treat vulnerable individuals early."
+    },
+    {
+      "id": 21,
+      "question": "The WHO End TB Strategy aims to:",
+      "options": ["Eliminate TB by 2030", "Reduce TB deaths by 75% by 2025", "Reduce TB incidence by 50% by 2020", "Double the treatment coverage"],
+      "correct_answer": 0,
+      "explanation": "The End TB Strategy aims for a world free of TB by 2030 (<1 case per million)."
+    },
+    {
+      "id": 22,
+      "question": "Which is the most common extrapulmonary TB site?",
+      "options": ["Pleural", "Lymph node", "Genitourinary", "Meningeal"],
+      "correct_answer": 1,
+      "explanation": "Lymph node TB (scrofula) is the most common form of extrapulmonary TB."
+    },
+    {
+      "id": 23,
+      "question": "In India, the proportion of TB cases that are pulmonary is approximately:",
+      "options": ["60%", "80%", "90%", "95%"],
+      "correct_answer": 1,
+      "explanation": "About 83% of TB cases in India are pulmonary TB."
+    },
+    {
+      "id": 24,
+      "question": "Latent TB treatment candidates include:",
+      "options": ["Anyone with LTBI", "Recent converters, close contacts, HIV+", "Smokers only", "Elderly only"],
+      "correct_answer": 1,
+      "explanation": "High-risk groups receive preventive treatment for LTBI."
+    },
+    {
+      "id": 25,
+      "question": "The India TB Report 2023 shows the national cure rate for DS-TB is:",
+      "options": ["75%", "84%", "90%", "95%"],
+      "correct_answer": 1,
+      "explanation": "India achieves about 84% successful treatment outcomes."
+    }
+  ]
+}
