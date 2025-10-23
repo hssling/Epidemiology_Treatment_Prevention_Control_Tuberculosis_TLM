@@ -1,128 +1,128 @@
 # Epidemiology, Treatment, and Control of Tuberculosis
 
-**Teaching Module for MBBS Students**
+**Comprehensive Teaching Module for MBBS Students**
 
 ---
 
-## Learning Objectives
+## Module Overview
 
-By the end of this module, students should be able to:
+This TB teaching module provides a complete understanding of tuberculosis from epidemiology to control strategies. The module is structured into detailed standalone chapters covering all aspects of TB.
 
-1. Describe the global and national epidemiology of tuberculosis
-2. Explain the transmission, pathogenesis, and risk factors for TB
-3. Identify clinical manifestations and diagnostic approaches
-4. Outline treatment regimens for drug-susceptible and drug-resistant TB
-5. Discuss preventive measures and national TB control programs
+**Total Chapters**: 10 comprehensive modules
+**Learning Format**: Self-contained chapters with objectives, content, diagrams, and assessments
+**Target Audience**: MBBS students, healthcare providers, TB program staff
+**Created**: October 2025
 
 ---
 
-## Introduction
+## Module Structure and Chapters
+
+### **Chapter 1: Introduction and Epidemiology**
+- Global and Indian TB burden statistics
+- Latent TB infection concepts
+- Socioeconomic impact of TB
+
+### **Chapter 2: Transmission and Pathogenesis**
+- Airborne transmission mechanisms
+- Primary infection and immune response
+- Disease progression to active TB
+
+### **Chapter 3: Risk Factors**
+- Host, environmental, and behavioral determinants
+- Major comorbidities (HIV, diabetes)
+- Interaction effects and amplification
+
+### **Chapter 4: Clinical Manifestations**
+- Pulmonary and extrapulmonary TB presentations
+- Special population manifestations
+- Complications and prognosis
+
+### **Chapter 5: Diagnosis**
+- Step-wise diagnostic approach
+- Advanced molecular and imaging techniques
+- Diagnostic algorithms and challenges
+
+### **Chapter 6: Treatment**
+- Drug-susceptible and drug-resistant regimens
+- Adverse drug reactions and management
+- Special situation protocols
+
+### **Chapter 7: Prevention and Control**
+- Primary, secondary, and tertiary prevention
+- Infection control measures
+- National TB control programs
+
+### **Chapter 8: TB in Special Populations**
+- Pediatric and geriatric TB
+- Pregnancy and breastfeeding
+- TB-HIV co-infection management
+
+### **Chapter 9: National TB Elimination Programme**
+- NTEP structure and evolution
+- Key initiatives and achievements
+- Future roadmap to TB elimination
+
+### **Chapter 10: Future Directions and Research**
+- Emerging challenges and innovations
+- Vaccine and diagnostic advances
+- Global collaborations and commitments
+
+---
+
+## Learning Objectives (Overall Module)
+
+By the end of this comprehensive TB module, students should be able to:
+
+1. Describe the global and national epidemiology of tuberculosis with latest statistical data
+2. Explain transmission mechanisms, pathogenesis, and complete disease spectrum
+3. Identify all major risk factors and understand their interactions
+4. Recognize clinical manifestations across all TB forms and complications
+5. Apply modern diagnostic approaches and interpret test results
+6. Outline evidence-based treatment regimens for all TB types
+7. Discuss prevention strategies and infection control measures
+8. Manage TB in special populations including co-infections
+9. Understand India's TB elimination program and national initiatives
+10. Identify future research directions and technological innovations
+
+---
+
+## Introduction to Tuberculosis
 
 Tuberculosis (TB) is an infectious disease caused by *Mycobacterium tuberculosis* bacteria. It primarily affects the lungs (pulmonary TB) but can involve other organs (extrapulmonary TB). TB is preventable and curable but remains a major global health challenge.
 
-### Key Facts:
+### Key Facts (Latest WHO 2023 Data):
 - Caused by acid-fast bacilli (AFB)
-- Affects approximately 10 million people globally each year
-- Leading infectious killer after COVID-19
+- Affects approximately 10.6 million people globally each year
+- Causes 1.3 million deaths worldwide annually
+- Leading cause of death from a single infectious agent
+- India bears 27% of global TB burden
+
+### Why Focus on TB?
+- **Global Health Priority**: SDG 3.3 targets TB elimination by 2030
+- **Indian Context**: Largest TB burden with 2.8 million cases per year
+- **Emerging Challenges**: Drug resistance, HIV co-infection, COVID-19 impact
+- **Technological Advances**: New drugs, diagnostics, and vaccines in pipeline
 
 ---
 
-## Epidemiology
+## Quick Reference: Key TB Statistics (2023)
 
 ### Global Burden
-- **Incidence**: 10 million new TB cases annually
-- **Deaths**: 1.5 million TB-related deaths per year
-- **Status**: Top infectious disease killer worldwide
-- **Contribution**: Major contributor to antimicrobial resistance (AMR)
-
-### High-Burden Countries
-TB is concentrated in 30 countries, with over 87% of cases occurring in these countries:
-- Bangladesh, China, India, Indonesia, Nigeria, Pakistan, Philippines, South Africa (highest burden)
+- **Incidence**: 10.6 million new TB cases annually
+- **Prevalence**: 11.4 million people living with TB
+- **Deaths**: 1.3 million TB-related deaths per year (excluding HIV-TB)
+- **High-Burden Countries**: 8 countries account for 66% of cases
 
 ### India Statistics
-- India accounts for ~27% of global TB burden
-- Annual incidence: 270 per 100,000 population
-- Prevalence: ~192 per 100,000
-- Mortality: 23 per 100,000 (2019 estimates)
+- **Annual Incidence**: 2.8 million new cases (210 per 100,000 population)
+- **Prevalence**: 2.1 million people living with TB
+- **Mortality**: ~32,000 deaths annually (including HIV-TB)
+- **Drug-Resistant TB**: ~1.4 lakh MDR-TB cases (India TB Report 2023)
 
 ### Latent TB Infection (LTBI)
-- About 25% of the world's population has LTBI
-- Lifetime risk of developing active TB: 5-15%
-
-Student Notes:
-_____
-_____
-_____
-_____
-
----
-
-## Transmission and Pathogenesis
-
-### Transmission
-TB is transmitted through the air when a person with active pulmonary TB:
-
-- Coughs
-- Sneezes
-- Speaks loudly
-- Sings
-
-The infectious unit is the droplet nucleus (1-5 microns), which can remain airborne for hours and travel far.
-
-### Risk of Infection
-The risk depends on:
-- Concentration of infectious droplet nuclei
-- Duration of exposure
-- Virulence of the organism
-- Susceptibility of the host
-
-### Pathogenesis
-1. **Primary Infection**: Inhalation → deposition in alveoli → phagocytosis by macrophages
-2. **Latent TB**: Bacteria survive but are contained by host immunity
-3. **Reactivation**: When immunity declines, bacteria multiply and cause active disease
-4. **Progressive Primary TB**: Rapid progression (common in infants, immunocompromised)
-
-In active TB, there is tissue destruction, caseation necrosis, cavitation, and spread through blood/lymphatics.
-
-Student Notes:
-_____
-_____
-_____
-_____
-
----
-
-## Risk Factors
-
-### Host Factors
-- **HIV/AIDS**: Increases risk of TB disease progression by 20-30 fold
-- **Malnutrition/Underweight**: Weakens immunity
-- **Diabetes mellitus**: 2-3 fold increased risk
-- **Tobacco use and smoking**: Significantly increases TB risk
-- **Alcohol use disorder**: Increases susceptibility
-- **Chronic kidney disease, malignancy, silicosis**
-
-### Social and Environmental Factors
-- Overcrowding and poor ventilation
-- Poverty and homelessness
-- Occupational exposure (healthcare workers, miners)
-- Migration and imprisonment
-
-### Special Groups at High Risk
-- Infants and elderly
-- People living with HIV (PLHIV)
-- Healthcare workers
-- Close contacts of active TB cases
-
-Student Notes:
-_____
-_____
-_____
-_____
-
----
-
-## Clinical Manifestations
+- About 1.7 billion people globally have LTBI
+- India estimates: ~400-500 million people
+- Lifetime risk of activation: 5-15% in immunocompetent hosts
 
 ### Pulmonary TB (85% of cases)
 **Constitutional symptoms**:
